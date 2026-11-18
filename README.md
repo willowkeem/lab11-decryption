@@ -1,4 +1,4 @@
-# Lab 9 — Decrypting the Intercepted Message
+# Lab 11 — Decrypting the Intercepted Message
 
 Secure Communications lab. The Gardaí recovered a partially damaged Python
 encryption program from a suspect's machine, along with an intercepted
